@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pfmnowak/course-goal-todo-react/static/css/main.54b784f1.chunk.css",
+    "main.js": "/pfmnowak/course-goal-todo-react/static/js/main.f1033716.chunk.js",
+    "main.js.map": "/pfmnowak/course-goal-todo-react/static/js/main.f1033716.chunk.js.map",
+    "runtime-main.js": "/pfmnowak/course-goal-todo-react/static/js/runtime-main.05d3d63b.js",
+    "runtime-main.js.map": "/pfmnowak/course-goal-todo-react/static/js/runtime-main.05d3d63b.js.map",
+    "static/js/2.300de3d2.chunk.js": "/pfmnowak/course-goal-todo-react/static/js/2.300de3d2.chunk.js",
+    "static/js/2.300de3d2.chunk.js.map": "/pfmnowak/course-goal-todo-react/static/js/2.300de3d2.chunk.js.map",
+    "index.html": "/pfmnowak/course-goal-todo-react/index.html",
+    "static/css/main.54b784f1.chunk.css.map": "/pfmnowak/course-goal-todo-react/static/css/main.54b784f1.chunk.css.map",
+    "static/js/2.300de3d2.chunk.js.LICENSE.txt": "/pfmnowak/course-goal-todo-react/static/js/2.300de3d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05d3d63b.js",
+    "static/js/2.300de3d2.chunk.js",
+    "static/css/main.54b784f1.chunk.css",
+    "static/js/main.f1033716.chunk.js"
+  ]
+}
